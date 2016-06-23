@@ -1,0 +1,17 @@
+Body {
+	background-color: black;
+}
+.contact {
+	color: #000000;
+	text-align: center;
+}
+#container {
+	background-color: white;
+	border: 5px dashed gray;
+	margin: 30px auto;
+	padding: 45px;
+	width: 75%;
+}
+.top-nav-menu {
+	font-size: larger;
+}
